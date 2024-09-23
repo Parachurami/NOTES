@@ -1,0 +1,20 @@
+export const COLORS = {
+    primaryColor: '#567568',
+    alternateColor:'#3D5249',
+    aliceBlue:'#D5DFE5',
+    frenchGrey: '#CBCBD4',
+    white:'#FFFFFF',
+    black:'#000000',
+    lightWhite:'#F5F5F5',
+    hookerGreen: '#5E8274',
+    alabaster:'#ebf4dc',
+    semiWhite:'#F5F5F5',
+    ashGrey:'#ACC3BA',
+    azureWeb:'#D6E5E3',
+    cambridgeBlue:'#95B2A7',
+    altCambridgeBlue:'#aacabe',
+    darkRipple:'#BDC2C2',
+    halfWhite:'#EBEBEB',
+    lightCambridgeBlue:'#cef8e8',
+    primaryWhite:'#E0E0E0'
+}
